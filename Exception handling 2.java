@@ -5,7 +5,7 @@
 Write your code in this editor and press "Run" button to execute it.
 
 *******************************************************************************/
-import java.util.Scanner
+import java.util.Scanner;
 public class Main
 {
     
